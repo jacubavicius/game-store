@@ -28,22 +28,31 @@ Esta aplicação de e-commerce para uma loja de jogos inclui funcionalidades bá
 - MySQL
 
 ## Como executar o projeto
-#### Pré-Requisito: Java 17
+#### Pré-Requisito: Java 17 e MySQL
 ```bash
 # clonar repositório
-git clone https://github.com/jacubavicius/livraria-nacional.git
+git clone https://github.com/jacubavicius/game-store.git
 
 # entrar na pasta do projeto
-cd  src/livraria
+cd  game-store
 
-# compilar o arquivo .java
-javac Menu.java
+# configurar o banco de dados MySQL
+## acesse o diretório
+cd game-store\gamestore\src\main\resources
 
-# executar o arquivo .class
-java Menu
+## atualize o arquivo 'application.properties' com username e password
+spring.datasource.username=seu_usuario
+spring.datasource.password=sua_senha
+
+# construa o projeto com Maven no terminal
+mvn clean install
+
+# ainda no terminal, execute
+mvn spring-boot:run
+
 ```
 ## Autora
 
-Este projeto foi desenvolvido: <b>Gabriella Jacubavicius</b>
+Este projeto foi desenvolvido por <b>Gabriella Jacubavicius</b>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-jacubavicius/)
