@@ -14,7 +14,7 @@ Esta aplicação de e-commerce para uma loja de jogos inclui funcionalidades bá
 - Excluir jogos cadastrados
 
 ## Testes com Insonmia
-![TesteCategoria](https://github.com/jacubavicius/game-store/blob/main/assets/testes-categorias.png)
+![MetodosCategoria](https://github.com/jacubavicius/game-store/blob/main/assets/metodos-categorias.png) ![getAllCategorias](https://github.com/jacubavicius/game-store/blob/main/assets/getAll-categorias.png)
 
 ![TesteProduto](https://github.com/jacubavicius/game-store/blob/main/assets/testes-produtos.png)
 
@@ -26,6 +26,8 @@ Esta aplicação de e-commerce para uma loja de jogos inclui funcionalidades bá
 ### Banco de Dados
 - MySQL
 
+## Como executar o projeto
+#### Pré-Requisito: Java 17
 ```bash
 # clonar repositório
 git clone https://github.com/jacubavicius/livraria-nacional.git
