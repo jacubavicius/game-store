@@ -3,8 +3,8 @@
 
 
 ## Sobre o projeto
-O projeto E-commerce Game Store é uma aplicação desenvolvida com Spring Boot e Java 17, criada como atividade no bloco 2 no <b>Bootcamp Generation</b>. O objetivo é demonstrar habilidades em desenvolvimento com <b>Spring Boot</b>. 
-Esta aplicação de e-commerce para uma loja de jogos inclui funcionalidades básicas de <b>CRUD</b> utilizando os recursos das anotações do Spring Boot e <b>JPA Repository</b>. Além disso, segue o padrão de arquitetura de software <b>MVC</b>.
+O projeto E-commerce Game Store é uma aplicação desenvolvida com <b>Spring Boot</b> e <b>Java 17</b>, criada como atividade no bloco 2 no <b>Bootcamp Generation</b>. O objetivo é demonstrar habilidades em desenvolvimento com Spring Boot. 
+Esta aplicação de e-commerce para uma loja de jogos inclui funcionalidades básicas de <b>CRUD</b> utilizando os recursos das anotações do Spring Boot e <b>Data JPA</b>. Além disso, segue o padrão de arquitetura de software <b>MVC</b>.
 
 ## Funcionalidades
 - Cadastros de jogos e categorias
@@ -14,9 +14,10 @@ Esta aplicação de e-commerce para uma loja de jogos inclui funcionalidades bá
 - Excluir jogos cadastrados
 
 ## Testes com Insonmia
-![MetodosCategoria](https://github.com/jacubavicius/game-store/blob/main/assets/metodos-categorias.png) ![getAllCategorias](https://github.com/jacubavicius/game-store/blob/main/assets/getAll-categorias.png)
+![MetodosCategoria](https://github.com/jacubavicius/game-store/blob/main/assets/metodos-categoria.png)  ![getAllCategorias](https://github.com/jacubavicius/game-store/blob/main/assets/getAllCategorias.png)
 
-![TesteProduto](https://github.com/jacubavicius/game-store/blob/main/assets/testes-produtos.png)
+
+![MetodosProduto](https://github.com/jacubavicius/game-store/blob/main/assets/metodos-produto.png)   ![getAllProdutos](https://github.com/jacubavicius/game-store/blob/main/assets/getAllProdutos.png)
 
 ## Tecnologia utilizada
 ### Back-End
