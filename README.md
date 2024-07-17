@@ -14,7 +14,7 @@ Esta aplicação de e-commerce para uma loja de jogos inclui funcionalidades bá
 - Excluir jogos cadastrados
 
 ## Testes com Insonmia
-![MetodosCategoria](https://github.com/jacubavicius/game-store/blob/main/assets/metodos-categorias.png) ![getAllCategorias](https://github.com/jacubavicius/game-store/blob/main/assets/getAll-categorias.png)
+![MetodosCategoria] ![getAllCategorias]
 
 ![TesteProduto](https://github.com/jacubavicius/game-store/blob/main/assets/testes-produtos.png)
 
