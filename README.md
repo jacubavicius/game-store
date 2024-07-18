@@ -23,6 +23,8 @@ Esta aplicação de e-commerce para uma loja de jogos inclui funcionalidades bá
 ### Back-End
 - Java 17
 - Spring Boot
+- JPA/Hibernate
+- Maven
 
 ### Banco de Dados
 - MySQL
