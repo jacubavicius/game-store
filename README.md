@@ -19,6 +19,9 @@ Esta aplicação de e-commerce para uma loja de jogos inclui funcionalidades bá
 
 ![MetodosProduto](https://github.com/jacubavicius/game-store/blob/main/assets/metodos-produto.png)   ![getAllProdutos](https://github.com/jacubavicius/game-store/blob/main/assets/getAllProdutos.png)
 
+## Diagrama banco de dados
+![diagrama](https://github.com/jacubavicius/game-store/blob/main/assets/diagramaWorkBench.png)
+
 ## Tecnologia utilizada
 ### Back-End
 - Java 17
